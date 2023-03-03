@@ -49,4 +49,4 @@ Para finalizar, falta o botão de limpar que, ao ser clicado, limpará os númer
 
 # Testando
 
-Agora que a calculadora está devidamente programada, basta testar e ver se tudo esá funcionando como deveria. Uma dica é tentar chamar alguem de fora para testar, pois os usuários são ótimos em achar falhas.
+Agora que a calculadora está devidamente programada, basta testar e ver se tudo esá funcionando como deveria. Uma dica é tentar chamar alguem que não saiba o funcionamento do programa para testar, pois pode fazer ações que não foram pensadas e gerar erros que não foram cogitados.
